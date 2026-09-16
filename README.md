@@ -84,22 +84,6 @@ Python • Pandas • Scikit-learn • XGBoost • Machine Learning
 
 ---
 
-### 🏥 Migrant Health Management & AI Health Prediction System
-
-A web-based platform combining health data management with machine-learning-based prediction.
-
-**Technologies:**
-Python • Machine Learning • Scikit-learn • Streamlit • SQL
-
-**Key focus:**
-
-* Health data management
-* ML-based prediction
-* Data visualization
-* Interactive web interface
-
----
-
 ### 😊 Mood Tracker
 
 A simple data-driven application for recording and visualizing mood information.
